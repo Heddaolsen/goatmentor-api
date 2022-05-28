@@ -25,7 +25,7 @@ def login_api(request):
     })
 
 
-@api_view(['GET'])
+@api_view()
 def get_user_data(request):
     user = request.user
 

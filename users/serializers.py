@@ -2,6 +2,7 @@ from django.contrib.auth.models import User
 from rest_framework import serializers, validators
 
 class RegisterSerializer(serializers.ModelSerializer):
+    """Register new user to the database"""
     class Meta:
         model = User
         fields = ('id', 'email', 'first_name', 'last_name', 'username', 'password')
@@ -28,6 +29,7 @@ class RegisterSerializer(serializers.ModelSerializer):
         }
 
     def create(self, validated_data):
+        """Validating and saving data"""
         user = User(
             email = validated_data['email'],
             first_name = validated_data['first_name'],
