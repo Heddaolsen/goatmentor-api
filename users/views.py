@@ -18,7 +18,8 @@ def login_api(request):
         'user_info': {
             'id': user.id,
             'username': user.username,
-            'email': user.email
+            'email': user.email,
+
         },
         'token': token
     })

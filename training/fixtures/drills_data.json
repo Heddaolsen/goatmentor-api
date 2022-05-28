@@ -1,0 +1,310 @@
+[
+    {
+        "model": "training.Drills",
+        "pk": 1,
+        "fields": {
+            "name": "Mini Master",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 2,
+        "fields": {
+            "name": "Medio Master",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 3,
+        "fields": {
+            "name": "Maxi Master",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 1
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 4,
+        "fields": {
+            "name": "Twenty Cones",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 1
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 5,
+        "fields": {
+            "name": "Juggle Master",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 6,
+        "fields": {
+            "name": "Tekkers Strong",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 7,
+        "fields": {
+            "name": "Tekkers Weak",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 8,
+        "fields": {
+            "name": "Volley Strong",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 9,
+        "fields": {
+            "name": "Volley Weak",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 10,
+        "fields": {
+            "name": "Longpass Strong",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 11,
+        "fields": {
+            "name": "Longpass Weak",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 12,
+        "fields": {
+            "name": "Longpass PRO Strong",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 13,
+        "fields": {
+            "name": "Longpass PRO Weak",
+            "score_type": 2,
+            "has_test": "True",
+            "time_bound": "True",
+            "test_duration": 15,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 14,
+        "fields": {
+            "name": "Passing Drills",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 4
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 15,
+        "fields": {
+            "name": "Foot work/Dribbling",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 1
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 16,
+        "fields": {
+            "name": "Speed Training",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 2
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 17,
+        "fields": {
+            "name": "Strength Training",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 3
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 18,
+        "fields": {
+            "name": "Stamina Training",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 1
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 19,
+        "fields": {
+            "name": "Speed Track SHORT",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 2
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 20,
+        "fields": {
+            "name": "Speed Track MEDIO",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 2
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 21,
+        "fields": {
+            "name": "Speed Track LONG",
+            "score_type": 1,
+            "has_test": "True",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 2
+        }
+    },
+    {
+        "model": "training.Drills",
+        "pk": 22,
+        "fields": {
+            "name": "Team Training",
+            "score_type": 0,
+            "has_test": "False",
+            "time_bound": "False",
+            "test_duration": 0,
+            "active": "True",
+            "created_at": "2022-05-18",
+            "drill_type_id": 6
+        }
+    }
+]

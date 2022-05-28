@@ -1,0 +1,47 @@
+
+  
+[
+    {
+        "model": "training.Drill_types",
+        "pk": 1,
+        "fields": {
+            "drill_type": "stamina"
+
+        }
+    },
+    {
+        "model": "training.Drill_types",
+        "pk": 2,
+        "fields": {
+            "drill_type": "speed"
+        }
+    },
+    {
+        "model": "training.Drill_types",
+        "pk": 3,
+        "fields": {
+            "drill_type": "strength"
+        }
+    },
+    {
+        "model": "training.Drill_types",
+        "pk": 4,
+        "fields": {
+            "drill_type": "technique"
+        }
+    },
+    {
+        "model": "training.Drill_types",
+        "pk": 5,
+        "fields": {
+            "drill_type": "tactical"
+        }
+    },
+    {
+        "model": "training.Drill_types",
+        "pk": 6,
+        "fields": {
+            "drill_type": "various"
+        }
+    }
+]
